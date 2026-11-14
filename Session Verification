@@ -1,0 +1,65 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://webarchive.unesco.org/
+Subject: Session Verification
+Date: Sun, 01 Nov 2026 12:57:37 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--bPIAWFvofxONy1JViGM8UK1MLtT5ByXBsoxfBZTFD2----"
+
+
+------MultipartBoundary--bPIAWFvofxONy1JViGM8UK1MLtT5ByXBsoxfBZTFD2----
+Content-Type: text/html
+Content-ID: <frame-003ABF5EC7E70899859D76912493D4E2@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://webarchive.unesco.org/
+
+<!DOCTYPE html><html class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-6d3d0ac5-4fb2-45ef-b772-1c626fa7525c@mhtml.blink" /><meta name="viewport" content="width=device-width">
+<title>Session Verification</title>
+
+
+</head><body>
+<form method="post" target="post" action="https://archive-it.org/_challenge" name="challenge">
+    
+    
+    
+    
+</form>
+<div id="progress"><span id="progressText">Took 5665ms</span><div id="progressBar" class="animate">⚙️</div></div>
+<iframe src="cid:frame-1A9078AB8FBE022D340B833F262C7B18@mhtml.blink" name="post"></iframe>
+
+
+
+
+</body></html>
+------MultipartBoundary--bPIAWFvofxONy1JViGM8UK1MLtT5ByXBsoxfBZTFD2----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-6d3d0ac5-4fb2-45ef-b772-1c626fa7525c@mhtml.blink
+
+@charset "utf-8";
+
+body { background: radial-gradient(39% 39%, rgba(233, 239, 249, 0.7) 0%, rgba(233, 239, 249, 0) 100%); font-family: "Source Sans 3", "Noto Sans", sans-serif; color: rgb(58, 80, 115); margin: 0px; padding: 0px; }
+
+#progress, #message { position: absolute; margin: 0px; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; font-size: 125%; }
+
+.no-js #progress { display: none; }
+
+#progressBar { font-size: 250%; user-select: none; }
+
+#progressBar.done { transition: font-size 2s linear, opacity 2s linear; font-size: 1000%; opacity: 0.5; }
+
+.animate { animation: 2s linear 0s infinite normal none running spin; }
+
+@keyframes spin { 
+  100% { transform: rotate(360deg); }
+}
+
+iframe { display: none; }
+------MultipartBoundary--bPIAWFvofxONy1JViGM8UK1MLtT5ByXBsoxfBZTFD2----
+Content-Type: text/html
+Content-ID: <frame-1A9078AB8FBE022D340B833F262C7B18@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--bPIAWFvofxONy1JViGM8UK1MLtT5ByXBsoxfBZTFD2------

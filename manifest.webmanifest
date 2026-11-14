@@ -1,0 +1,10 @@
+{
+  "name": "SOCIAL CONNECT",
+  "short_name": "Social Connect",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080811",
+  "theme_color": "#080811",
+  "description": "Connect • Share • Discover",
+  "icons": []
+}
